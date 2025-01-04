@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/birthday_invitation/static/css/main.453a5b31.css",
+    "main.js": "/birthday_invitation/static/js/main.95a3aff7.js",
+    "static/js/488.7f11726a.chunk.js": "/birthday_invitation/static/js/488.7f11726a.chunk.js",
+    "static/media/nanum_mini.ttf": "/birthday_invitation/static/media/nanum_mini.17677cc2fc2debf5e928.ttf",
+    "index.html": "/birthday_invitation/index.html",
+    "main.453a5b31.css.map": "/birthday_invitation/static/css/main.453a5b31.css.map",
+    "main.95a3aff7.js.map": "/birthday_invitation/static/js/main.95a3aff7.js.map",
+    "488.7f11726a.chunk.js.map": "/birthday_invitation/static/js/488.7f11726a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453a5b31.css",
+    "static/js/main.95a3aff7.js"
+  ]
+}
