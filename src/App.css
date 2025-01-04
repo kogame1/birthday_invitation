@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/* 로딩 화면 스타일 */
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* 화면 전체를 채움 */
+  background-color: #f8f9fa; /* 로딩 화면 배경 색상 */
+}
+
+.loading-gif {
+  width: 100px; /* 로딩 GIF 크기 */
+  height: auto;
+}

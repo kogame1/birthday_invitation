@@ -31,7 +31,7 @@ function InvitationPage({ guestName }) {
     // 중복 확인
     const isDuplicate = drawResults.some((result) => result.number === number);
     if (isDuplicate) {
-      Swal.fire("중복된 번호", "이미 뽑힌 번호입니다. 다시 뽑아주세요.", "warning");
+      Swal.fire("제비뽑기 완료", "5개 제비뽑기가 모두 완료되었습니다.", "warning");
       return;
     }
 
@@ -126,7 +126,7 @@ function InvitationPage({ guestName }) {
       >
         <h1 className="mb-4">생일 초대장</h1>
         <p className="fs-4">{guestName.name}님을 초대합니다!</p>
-        <p className="fs-5">날짜: 2025년 1월 22일</p>
+        <p className="fs-5">날짜: 2025년 1월 22일 (수)</p>
         <p className="fs-5">장소: 김포집</p>
 
         {/* 제비뽑기 */}
